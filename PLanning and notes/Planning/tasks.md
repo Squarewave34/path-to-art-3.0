@@ -1,0 +1,103 @@
+- [x] Narrow down the functionality that need to be considered
+    - [x] All functionality
+    - [x] Filtered according to importance
+
+- [x] Prepare an erd
+
+- [x] List all the needed pages and containers
+
+- [X] list the components for each page 
+    - [x] Header
+        - [x] Menu
+    - [x] Footer
+    - [x] Log in
+    - [x] Sign up
+    - [ ] Homepage not logged in
+    - [x] Homepage logged in
+        - [x] Project card
+    - [x] Homepage logged logged in no projects
+    - [x] Profile
+    - [x] Edit Profile form
+    - [x] Timeline
+    - [x] Filtered page
+    - [x] Project form
+    - [x] Project 
+    - [x] Edit a project
+    - [x] Gallery
+    - [x] Process form
+    - [x] Process page
+    - [x] Edit a process form
+
+- [x] sketch wire frames
+    - [x] Header
+        - [x] Menu
+    - [x] Footer
+    - [x] Log in
+    - [x] Sign up
+    - [ ] Homepage not logged in
+    - [x] Homepage logged in
+        - [x] Project card
+    - [x] Homepage logged logged in no projects
+    - [x] Profile
+    - [x] Edit Profile form
+    - [x] Timeline
+    - [x] Filtered page
+    - [x] Project form
+    - [x] Project 
+    - [x] Edit a project
+    - [x] Gallery
+    - [x] Process form
+    - [x] Process page
+    - [x] Edit a process form
+
+- [ ] Create the level 2 wireframe in figma
+    - [x] Header
+        - [x] Menu
+    - [x] Footer
+    - [x] Log in
+    - [x] Sign up
+    - [ ] Homepage not logged in
+    - [x] Homepage logged in
+        - [ ] Project card
+    - [x] Homepage logged in no projects
+    - [x] Profile
+    - [x] Edit Profile form
+    - [x] Timeline
+    - [x] Filtered page
+    - [x] Project form
+    - [x] Project 
+    - [x] Gallery
+    - [x] Process form
+    - [x] Processes page
+    - [x] Processes page no processes
+    - [x] Process page
+
+- [ ] Repeat the design process for
+    - [x] Homepage not logged in
+        - [x] Structure
+        - [x] Wire frame
+    - [x] Type component
+        - [x] Structure
+        - [x] Wire frame
+    - [x] Collection component
+        - [x] Structure
+        - [x] Wire frame
+    - [x] View more images
+        - [x] Structure
+        - [x] Wire frame
+    - [x] Project card
+        - [x] Structure
+        - [x] Wire frame
+
+- [ ] follow [this](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) for backend
+    - [ ] set up server.js
+    - [ ] set up the schemas
+    - [ ] set up the routes
+
+- [ ] follow [this](https://www.youtube.com/playlist?list=PLB4OYaYkKsG67m29ynu_k3NykUUNuTn0P) for front end
+    - [ ] set up pages
+    - [ ] connect front end to back end
+    - [ ] work on display
+    - [ ] work on adding
+    - [ ] work on editing
+    - [ ] work on deleting

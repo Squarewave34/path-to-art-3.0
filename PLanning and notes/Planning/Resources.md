@@ -1,0 +1,13 @@
+[MERN stack crash course with vite](https://www.youtube.com/playlist?list=PLB4OYaYkKsG67m29ynu_k3NykUUNuTn0P)
+[Complete MERN project](https://www.youtube.com/watch?v=9hoyiyut0lE)
+[Design](https://www.youtube.com/watch?v=j6Ule7GXaRs)
+[Design tips](https://www.youtube.com/watch?v=ShSNbXkxQS8)
+[Web design course](https://www.youtube.com/watch?v=B-ytMSuwbf8)
+
+[Huion website](https://store.huion.com/global/)
+[Clip studio paint website](https://www.clipstudio.net/en/)
+[random pretty website](https://www.brets.fr/fr)
+[the push.](https://www.thepush.com.au)
+[thompson](https://www.thompsoncff.org)
+[trello](https://trello.com/w/userworkspace22043670/home)
+[Lucidchart](https://lucid.co/lucidspark/landing/better-together)
