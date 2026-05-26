@@ -7,12 +7,16 @@ require('dotenv').config()
 // 5
 const mongoose = require('mongoose')
 
+// 7
+const projectRoutes = require('./router/project')
+const processRoutes = require('./router/process')
+
 // 2
 const app = express(express.json())
 
-// app.get('/', (req, res)=>{
-//     res.json({mssg: 'it works'})
-// })
+// 8
+app.use('/projects', projectRoutes)
+app.use('/process', processRoutes)
 
 // 6
 mongoose.connect(process.env.MONGO_URI)
