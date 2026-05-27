@@ -12,7 +12,10 @@ const projectRoutes = require('./router/project')
 const processRoutes = require('./router/process')
 
 // 2
-const app = express(express.json())
+const app = express()
+app.use(express.json());
+// app.use(express.urlencoded({ extended: true }));
+
 
 // 8
 app.use('/projects', projectRoutes)

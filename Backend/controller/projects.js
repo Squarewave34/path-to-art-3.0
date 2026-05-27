@@ -4,8 +4,13 @@ const Project = require('../models/projectModel')
 // create projects
 const createProject = async(req, res)=>{
     try {
-        await Project.create(req.body);
+        const {title, artworkType, collection, status, important, current, process, notes, inspoBord, images, deadline, startDate,
+        reminder, collaborator, collaboratorLinks} = req.body
+
+        const project = await Project.create({title, artworkType, collection, status, important, current, process, notes, inspoBord, images, deadline, startDate,
+        reminder, collaborator, collaboratorLinks});
     } catch (error) {
+        res.json({error: error.message})
         console.log(`error in controller/project.js create a project: ${error}`)
     }
 }

@@ -15,7 +15,7 @@ const router = express.Router()
 // 5
 
 // Create a project
-router.put('/', createProject)
+router.post('/', createProject)
 // Read projects
 router.get('/', readProjects)
 // Read a project
